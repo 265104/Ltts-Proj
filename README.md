@@ -6,7 +6,7 @@ STEPin Template Project
 |![C/C++ CI](https://github.com/Bharathgopal/STEPin/workflows/C/C++%20CI/badge.svg)|![Unit testing](https://github.com/Bharathgopal/STEPin/workflows/Unit%20testing/badge.svg)|![cppcheck-action](https://github.com/Bharathgopal/STEPin/workflows/cppcheck-action/badge.svg)|![Valgrind](https://github.com/Bharathgopal/STEPin/workflows/Valgrind/badge.svg)|[![Codacy Badge](https://app.codacy.com/project/badge/Grade/fe19032a8c224195929dc60376cc441b)](https://www.codacy.com/manual/Bharathgopal/STEPin?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Bharathgopal/STEPin&amp;utm_campaign=Badge_Grade)|
 
 # EMPLOYEE MANAGEMENT SYSTEM
-![](https://github.com/265104/Ltts-Proj/blob/main/1_Requirements/Banner.jpg)
+![](https://github.com/265104/Ltts-Proj/blob/master/MiniProject_C/1_Requirements/Banner.jpg)
 ## Introduction
  An employee management system (EMS)is an application that helps you manage your employee's data. The details of the employees are feed into this system and henceforth yoy need not crawl through multiple files and spreadsheets for the details of the employees which thereby saves a substantial amount of time. 
 
