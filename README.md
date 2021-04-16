@@ -16,7 +16,7 @@ STEPin Template Project
 3. Saves the records in the file created and finaaly reads the data from the file as per choice.
 
 ## SWOT ANALYSIS
-![](https://github.com/265104/LnT_mini_proj/blob/main/1_Requirements/SWOT-1.png)
+![](https://github.com/265104/Ltts-Proj/blob/master/MiniProject_C/1_Requirements/SWOT-1.png)
 
 # 4W&#39;s and 1&#39;H
 
